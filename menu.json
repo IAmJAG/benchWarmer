@@ -1,0 +1,23 @@
+[
+    {
+        "Caption": "[S]tart",
+        "Keys": [
+            "START",
+            "S"
+        ]
+    },
+    {
+        "Caption": "Select [D]evice",
+        "Keys": [
+            "SD",
+            "D"
+        ]
+    },
+    {
+        "Caption": "[Q]uit",
+        "Keys": [
+            "QUIT",
+            "Q"
+        ]
+    }
+]
